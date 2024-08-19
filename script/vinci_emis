@@ -1,0 +1,56 @@
+#!/bin/bash
+
+# 确保脚本的第一个参数是 "run" 或 "clean"
+if [ "$1" != "run" ] && [ "$1" != "clean" ]; then
+    echo "Usage: $0 {run <binary_file_name>|clean}"
+    exit 1
+fi
+
+# 获取命令类型
+COMMAND=$1
+
+if [ "$COMMAND" == "run" ]; then
+    # 获取二进制文件名
+    BINARY_NAME=$2
+
+    # 获取脚本所在的目录
+    SCRIPT_DIR=$(dirname "$(realpath "$0")")
+
+    # 设置二进制文件所在的目录（相对于项目根目录）
+    # 因为脚本在 script 目录中，所以从 build 目录来看,install 在 build 的上级目录
+    BIN_DIR="${SCRIPT_DIR}/../install/bin/run_temp"
+
+    # 打印调试信息（可选）
+    # echo "Script path: ${SCRIPT_DIR}"
+    # echo "Binary name: ${BINARY_NAME}"
+    # echo "Binary directory: ${BIN_DIR}"
+
+    # 检查二进制文件是否存在
+    if [ ! -f "${BIN_DIR}/${BINARY_NAME}" ]; then
+        echo "Error: Binary file '${BINARY_NAME}' does not exist in '${BIN_DIR}'"
+        exit 1
+    fi
+
+    # 确保二进制文件具有执行权限
+    if [ ! -x "${BIN_DIR}/${BINARY_NAME}" ]; then
+        echo "Error: Binary file '${BINARY_NAME}' is not executable"
+        exit 1
+    fi
+
+    # 运行二进制文件
+    "${BIN_DIR}/${BINARY_NAME}"
+
+elif [ "$COMMAND" == "clean" ]; then
+    # 获取脚本所在的目录
+    SCRIPT_DIR=$(dirname "$(realpath "$0")")
+
+    # 设置 build 和 install 目录（相对于项目根目录）
+    BUILD_DIR="${SCRIPT_DIR}/../build"
+    INSTALL_DIR="${SCRIPT_DIR}/../install"
+
+    # 删除 build 和 install 目录下的所有文件
+    echo "Cleaning up build and install directories..."
+    rm -rf "${BUILD_DIR:?}"/* "${INSTALL_DIR:?}"/*
+
+    echo "Clean up completed."
+fi

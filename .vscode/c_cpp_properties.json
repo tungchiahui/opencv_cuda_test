@@ -4,15 +4,13 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/usr/include/**",
-                "/usr/local/opencv-4.8.1/include/**"
+                "${workspaceFolder}/inc",
+                "/usr/include/**"
             ],
             "defines": [],
-            "compilerPath": "/usr/bin/gcc",
             "cStandard": "c17",
             "cppStandard": "c++14",
-            "intelliSenseMode": "linux-clang-x64",
-            "configurationProvider": "cmsis-csolution"
+            "intelliSenseMode": "linux-gcc-x64"
         }
     ],
     "version": 4
