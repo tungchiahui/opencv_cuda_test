@@ -42,5 +42,17 @@
     sudo chmod a+x ../script/vinci_emis
     # 运行二进制文件
     ../script/vinci_emis run <binary_file_name>
+
+
+
+2. **清理build和install文件夹**
+
+   使用以下命令进行清理：
+
+   ```bash
+    # 请确认该脚本在build文件夹下运行
+    cd build
+    # 第一次使用时请给予执行权限
+    sudo chmod a+x ../script/vinci_emis
     # 清理build和install文件夹
     ../script/vinci_emis clean

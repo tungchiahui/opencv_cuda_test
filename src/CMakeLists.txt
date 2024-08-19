@@ -24,10 +24,10 @@ include_directories(${CMAKE_CURRENT_SOURCE_DIR})
 # PROPERTIES：表示接下来的键值对是要设置的属性
 # property：目标的属性名 (RUNTIME_OUTPUT_DIRECTORY 是一个属性名，用于指定可执行文件的输出目录)
 # value：属性的值 (${CMAKE_SOURCE_DIR}/bin 是这个属性的值，指定了输出目录的位置)
-set_target_properties(${TARGET_NAME} PROPERTIES RUNTIME_OUTPUT_DIRECTORY ${USER_INSTALL_BIN_DIR}/run_temp)
+# set_target_properties(${TARGET_NAME} PROPERTIES RUNTIME_OUTPUT_DIRECTORY ${USER_INSTALL_BIN_DIR}/run_temp)
+
 # 安装二进制文件
 install(TARGETS ${TARGET_NAME} DESTINATION ${USER_INSTALL_BIN_DIR})
-
 
 
 # 为当前项目添加子目录。子目录当中必须包含一个CMakeLists.txt文件，其中可以不写cmake_minimum_required与project。

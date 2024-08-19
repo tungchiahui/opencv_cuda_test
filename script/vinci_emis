@@ -18,7 +18,7 @@ if [ "$COMMAND" == "run" ]; then
 
     # 设置二进制文件所在的目录（相对于项目根目录）
     # 因为脚本在 script 目录中，所以从 build 目录来看,install 在 build 的上级目录
-    BIN_DIR="${SCRIPT_DIR}/../install/bin/run_temp"
+    BIN_DIR="${SCRIPT_DIR}/../install/bin"
 
     # 打印调试信息（可选）
     # echo "Script path: ${SCRIPT_DIR}"

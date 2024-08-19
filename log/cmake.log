@@ -1,1 +1,238 @@
 
+"Build started at: Tuesday, August 20, 2024 AM01:01:56 HKT"
+-- it's OPENCV_CUDA:
+-- OPENCV_CUDA_SRC_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/src/opencv_cuda.cpp
+-- OPENCV_CUDA_HEADER_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/inc/opencv_cuda.hpp
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE  
+-- Found CUDA: /usr/local/cuda-12.4 (found suitable exact version "12.4") 
+-- Found OpenCV: /usr/local (found version "4.10.0") 
+-- OpenCV library status:
+-- > version: 4.10.0
+-- > include: /usr/local/include/opencv4
+-- > libraries: opencv_calib3d;opencv_core;opencv_dnn;opencv_features2d;opencv_flann;opencv_gapi;opencv_highgui;opencv_imgcodecs;opencv_imgproc;opencv_ml;opencv_objdetect;opencv_photo;opencv_stitching;opencv_video;opencv_videoio;opencv_alphamat;opencv_aruco;opencv_bgsegm;opencv_bioinspired;opencv_ccalib;opencv_cudaarithm;opencv_cudabgsegm;opencv_cudacodec;opencv_cudafeatures2d;opencv_cudafilters;opencv_cudaimgproc;opencv_cudalegacy;opencv_cudaobjdetect;opencv_cudaoptflow;opencv_cudastereo;opencv_cudawarping;opencv_cudev;opencv_datasets;opencv_dnn_objdetect;opencv_dnn_superres;opencv_dpm;opencv_face;opencv_freetype;opencv_fuzzy;opencv_hfs;opencv_img_hash;opencv_intensity_transform;opencv_line_descriptor;opencv_mcc;opencv_optflow;opencv_phase_unwrapping;opencv_plot;opencv_quality;opencv_rapid;opencv_reg;opencv_rgbd;opencv_saliency;opencv_shape;opencv_signal;opencv_stereo;opencv_structured_light;opencv_superres;opencv_surface_matching;opencv_text;opencv_tracking;opencv_videostab;opencv_wechat_qrcode;opencv_xfeatures2d;opencv_ximgproc;opencv_xobjdetect;opencv_xphoto
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/build
+
+Build started at: Tuesday, August 20, 2024 AM01:02:17 HKT
+-- it's OPENCV_CUDA:
+-- OPENCV_CUDA_SRC_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/src/opencv_cuda.cpp
+-- OPENCV_CUDA_HEADER_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/inc/opencv_cuda.hpp
+-- OpenCV library status:
+-- > version: 4.10.0
+-- > include: /usr/local/include/opencv4
+-- > libraries: opencv_calib3d;opencv_core;opencv_dnn;opencv_features2d;opencv_flann;opencv_gapi;opencv_highgui;opencv_imgcodecs;opencv_imgproc;opencv_ml;opencv_objdetect;opencv_photo;opencv_stitching;opencv_video;opencv_videoio;opencv_alphamat;opencv_aruco;opencv_bgsegm;opencv_bioinspired;opencv_ccalib;opencv_cudaarithm;opencv_cudabgsegm;opencv_cudacodec;opencv_cudafeatures2d;opencv_cudafilters;opencv_cudaimgproc;opencv_cudalegacy;opencv_cudaobjdetect;opencv_cudaoptflow;opencv_cudastereo;opencv_cudawarping;opencv_cudev;opencv_datasets;opencv_dnn_objdetect;opencv_dnn_superres;opencv_dpm;opencv_face;opencv_freetype;opencv_fuzzy;opencv_hfs;opencv_img_hash;opencv_intensity_transform;opencv_line_descriptor;opencv_mcc;opencv_optflow;opencv_phase_unwrapping;opencv_plot;opencv_quality;opencv_rapid;opencv_reg;opencv_rgbd;opencv_saliency;opencv_shape;opencv_signal;opencv_stereo;opencv_structured_light;opencv_superres;opencv_surface_matching;opencv_text;opencv_tracking;opencv_videostab;opencv_wechat_qrcode;opencv_xfeatures2d;opencv_ximgproc;opencv_xobjdetect;opencv_xphoto
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/build
+
+Build started at: Tuesday, August 20, 2024 AM01:05:45 HKT
+-- it's OPENCV_CUDA:
+-- OPENCV_CUDA_SRC_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/src/opencv_cuda.cpp
+-- OPENCV_CUDA_HEADER_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/inc/opencv_cuda.hpp
+-- OpenCV library status:
+-- > version: 4.10.0
+-- > include: /usr/local/include/opencv4
+-- > libraries: opencv_calib3d;opencv_core;opencv_dnn;opencv_features2d;opencv_flann;opencv_gapi;opencv_highgui;opencv_imgcodecs;opencv_imgproc;opencv_ml;opencv_objdetect;opencv_photo;opencv_stitching;opencv_video;opencv_videoio;opencv_alphamat;opencv_aruco;opencv_bgsegm;opencv_bioinspired;opencv_ccalib;opencv_cudaarithm;opencv_cudabgsegm;opencv_cudacodec;opencv_cudafeatures2d;opencv_cudafilters;opencv_cudaimgproc;opencv_cudalegacy;opencv_cudaobjdetect;opencv_cudaoptflow;opencv_cudastereo;opencv_cudawarping;opencv_cudev;opencv_datasets;opencv_dnn_objdetect;opencv_dnn_superres;opencv_dpm;opencv_face;opencv_freetype;opencv_fuzzy;opencv_hfs;opencv_img_hash;opencv_intensity_transform;opencv_line_descriptor;opencv_mcc;opencv_optflow;opencv_phase_unwrapping;opencv_plot;opencv_quality;opencv_rapid;opencv_reg;opencv_rgbd;opencv_saliency;opencv_shape;opencv_signal;opencv_stereo;opencv_structured_light;opencv_superres;opencv_surface_matching;opencv_text;opencv_tracking;opencv_videostab;opencv_wechat_qrcode;opencv_xfeatures2d;opencv_ximgproc;opencv_xobjdetect;opencv_xphoto
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/build
+
+Build started at: Tuesday, August 20, 2024 AM01:08:04 HKT
+-- it's OPENCV_CUDA:
+-- OPENCV_CUDA_SRC_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/src/opencv_cuda.cpp
+-- OPENCV_CUDA_HEADER_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/inc/opencv_cuda.hpp
+-- OpenCV library status:
+-- > version: 4.10.0
+-- > include: /usr/local/include/opencv4
+-- > libraries: opencv_calib3d;opencv_core;opencv_dnn;opencv_features2d;opencv_flann;opencv_gapi;opencv_highgui;opencv_imgcodecs;opencv_imgproc;opencv_ml;opencv_objdetect;opencv_photo;opencv_stitching;opencv_video;opencv_videoio;opencv_alphamat;opencv_aruco;opencv_bgsegm;opencv_bioinspired;opencv_ccalib;opencv_cudaarithm;opencv_cudabgsegm;opencv_cudacodec;opencv_cudafeatures2d;opencv_cudafilters;opencv_cudaimgproc;opencv_cudalegacy;opencv_cudaobjdetect;opencv_cudaoptflow;opencv_cudastereo;opencv_cudawarping;opencv_cudev;opencv_datasets;opencv_dnn_objdetect;opencv_dnn_superres;opencv_dpm;opencv_face;opencv_freetype;opencv_fuzzy;opencv_hfs;opencv_img_hash;opencv_intensity_transform;opencv_line_descriptor;opencv_mcc;opencv_optflow;opencv_phase_unwrapping;opencv_plot;opencv_quality;opencv_rapid;opencv_reg;opencv_rgbd;opencv_saliency;opencv_shape;opencv_signal;opencv_stereo;opencv_structured_light;opencv_superres;opencv_surface_matching;opencv_text;opencv_tracking;opencv_videostab;opencv_wechat_qrcode;opencv_xfeatures2d;opencv_ximgproc;opencv_xobjdetect;opencv_xphoto
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/build
+
+Build started at: Tuesday, August 20, 2024 AM01:08:25 HKT
+-- it's OPENCV_CUDA:
+-- OPENCV_CUDA_SRC_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/src/opencv_cuda.cpp
+-- OPENCV_CUDA_HEADER_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/inc/opencv_cuda.hpp
+-- OpenCV library status:
+-- > version: 4.10.0
+-- > include: /usr/local/include/opencv4
+-- > libraries: opencv_calib3d;opencv_core;opencv_dnn;opencv_features2d;opencv_flann;opencv_gapi;opencv_highgui;opencv_imgcodecs;opencv_imgproc;opencv_ml;opencv_objdetect;opencv_photo;opencv_stitching;opencv_video;opencv_videoio;opencv_alphamat;opencv_aruco;opencv_bgsegm;opencv_bioinspired;opencv_ccalib;opencv_cudaarithm;opencv_cudabgsegm;opencv_cudacodec;opencv_cudafeatures2d;opencv_cudafilters;opencv_cudaimgproc;opencv_cudalegacy;opencv_cudaobjdetect;opencv_cudaoptflow;opencv_cudastereo;opencv_cudawarping;opencv_cudev;opencv_datasets;opencv_dnn_objdetect;opencv_dnn_superres;opencv_dpm;opencv_face;opencv_freetype;opencv_fuzzy;opencv_hfs;opencv_img_hash;opencv_intensity_transform;opencv_line_descriptor;opencv_mcc;opencv_optflow;opencv_phase_unwrapping;opencv_plot;opencv_quality;opencv_rapid;opencv_reg;opencv_rgbd;opencv_saliency;opencv_shape;opencv_signal;opencv_stereo;opencv_structured_light;opencv_superres;opencv_surface_matching;opencv_text;opencv_tracking;opencv_videostab;opencv_wechat_qrcode;opencv_xfeatures2d;opencv_ximgproc;opencv_xobjdetect;opencv_xphoto
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/build
+
+Build started at: Tuesday, August 20, 2024 AM01:10:30 HKT
+-- it's OPENCV_CUDA:
+-- OPENCV_CUDA_SRC_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/src/opencv_cuda.cpp
+-- OPENCV_CUDA_HEADER_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/inc/opencv_cuda.hpp
+-- OpenCV library status:
+-- > version: 4.10.0
+-- > include: /usr/local/include/opencv4
+-- > libraries: opencv_calib3d;opencv_core;opencv_dnn;opencv_features2d;opencv_flann;opencv_gapi;opencv_highgui;opencv_imgcodecs;opencv_imgproc;opencv_ml;opencv_objdetect;opencv_photo;opencv_stitching;opencv_video;opencv_videoio;opencv_alphamat;opencv_aruco;opencv_bgsegm;opencv_bioinspired;opencv_ccalib;opencv_cudaarithm;opencv_cudabgsegm;opencv_cudacodec;opencv_cudafeatures2d;opencv_cudafilters;opencv_cudaimgproc;opencv_cudalegacy;opencv_cudaobjdetect;opencv_cudaoptflow;opencv_cudastereo;opencv_cudawarping;opencv_cudev;opencv_datasets;opencv_dnn_objdetect;opencv_dnn_superres;opencv_dpm;opencv_face;opencv_freetype;opencv_fuzzy;opencv_hfs;opencv_img_hash;opencv_intensity_transform;opencv_line_descriptor;opencv_mcc;opencv_optflow;opencv_phase_unwrapping;opencv_plot;opencv_quality;opencv_rapid;opencv_reg;opencv_rgbd;opencv_saliency;opencv_shape;opencv_signal;opencv_stereo;opencv_structured_light;opencv_superres;opencv_surface_matching;opencv_text;opencv_tracking;opencv_videostab;opencv_wechat_qrcode;opencv_xfeatures2d;opencv_ximgproc;opencv_xobjdetect;opencv_xphoto
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/build
+
+Build started at: Tuesday, August 20, 2024 AM01:11:04 HKT
+-- it's OPENCV_CUDA:
+-- OPENCV_CUDA_SRC_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/src/opencv_cuda.cpp
+-- OPENCV_CUDA_HEADER_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/inc/opencv_cuda.hpp
+-- OpenCV library status:
+-- > version: 4.10.0
+-- > include: /usr/local/include/opencv4
+-- > libraries: opencv_calib3d;opencv_core;opencv_dnn;opencv_features2d;opencv_flann;opencv_gapi;opencv_highgui;opencv_imgcodecs;opencv_imgproc;opencv_ml;opencv_objdetect;opencv_photo;opencv_stitching;opencv_video;opencv_videoio;opencv_alphamat;opencv_aruco;opencv_bgsegm;opencv_bioinspired;opencv_ccalib;opencv_cudaarithm;opencv_cudabgsegm;opencv_cudacodec;opencv_cudafeatures2d;opencv_cudafilters;opencv_cudaimgproc;opencv_cudalegacy;opencv_cudaobjdetect;opencv_cudaoptflow;opencv_cudastereo;opencv_cudawarping;opencv_cudev;opencv_datasets;opencv_dnn_objdetect;opencv_dnn_superres;opencv_dpm;opencv_face;opencv_freetype;opencv_fuzzy;opencv_hfs;opencv_img_hash;opencv_intensity_transform;opencv_line_descriptor;opencv_mcc;opencv_optflow;opencv_phase_unwrapping;opencv_plot;opencv_quality;opencv_rapid;opencv_reg;opencv_rgbd;opencv_saliency;opencv_shape;opencv_signal;opencv_stereo;opencv_structured_light;opencv_superres;opencv_surface_matching;opencv_text;opencv_tracking;opencv_videostab;opencv_wechat_qrcode;opencv_xfeatures2d;opencv_ximgproc;opencv_xobjdetect;opencv_xphoto
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/build
+
+Build started at: Tuesday, August 20, 2024 AM01:11:29 HKT
+-- it's OPENCV_CUDA:
+-- OPENCV_CUDA_SRC_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/src/opencv_cuda.cpp
+-- OPENCV_CUDA_HEADER_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/inc/opencv_cuda.hpp
+-- OpenCV library status:
+-- > version: 4.10.0
+-- > include: /usr/local/include/opencv4
+-- > libraries: opencv_calib3d;opencv_core;opencv_dnn;opencv_features2d;opencv_flann;opencv_gapi;opencv_highgui;opencv_imgcodecs;opencv_imgproc;opencv_ml;opencv_objdetect;opencv_photo;opencv_stitching;opencv_video;opencv_videoio;opencv_alphamat;opencv_aruco;opencv_bgsegm;opencv_bioinspired;opencv_ccalib;opencv_cudaarithm;opencv_cudabgsegm;opencv_cudacodec;opencv_cudafeatures2d;opencv_cudafilters;opencv_cudaimgproc;opencv_cudalegacy;opencv_cudaobjdetect;opencv_cudaoptflow;opencv_cudastereo;opencv_cudawarping;opencv_cudev;opencv_datasets;opencv_dnn_objdetect;opencv_dnn_superres;opencv_dpm;opencv_face;opencv_freetype;opencv_fuzzy;opencv_hfs;opencv_img_hash;opencv_intensity_transform;opencv_line_descriptor;opencv_mcc;opencv_optflow;opencv_phase_unwrapping;opencv_plot;opencv_quality;opencv_rapid;opencv_reg;opencv_rgbd;opencv_saliency;opencv_shape;opencv_signal;opencv_stereo;opencv_structured_light;opencv_superres;opencv_surface_matching;opencv_text;opencv_tracking;opencv_videostab;opencv_wechat_qrcode;opencv_xfeatures2d;opencv_ximgproc;opencv_xobjdetect;opencv_xphoto
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/build
+
+Build started at: Tuesday, August 20, 2024 AM01:12:44 HKT
+-- it's OPENCV_CUDA:
+-- OPENCV_CUDA_SRC_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/src/opencv_cuda.cpp
+-- OPENCV_CUDA_HEADER_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/inc/opencv_cuda.hpp
+-- OpenCV library status:
+-- > version: 4.10.0
+-- > include: /usr/local/include/opencv4
+-- > libraries: opencv_calib3d;opencv_core;opencv_dnn;opencv_features2d;opencv_flann;opencv_gapi;opencv_highgui;opencv_imgcodecs;opencv_imgproc;opencv_ml;opencv_objdetect;opencv_photo;opencv_stitching;opencv_video;opencv_videoio;opencv_alphamat;opencv_aruco;opencv_bgsegm;opencv_bioinspired;opencv_ccalib;opencv_cudaarithm;opencv_cudabgsegm;opencv_cudacodec;opencv_cudafeatures2d;opencv_cudafilters;opencv_cudaimgproc;opencv_cudalegacy;opencv_cudaobjdetect;opencv_cudaoptflow;opencv_cudastereo;opencv_cudawarping;opencv_cudev;opencv_datasets;opencv_dnn_objdetect;opencv_dnn_superres;opencv_dpm;opencv_face;opencv_freetype;opencv_fuzzy;opencv_hfs;opencv_img_hash;opencv_intensity_transform;opencv_line_descriptor;opencv_mcc;opencv_optflow;opencv_phase_unwrapping;opencv_plot;opencv_quality;opencv_rapid;opencv_reg;opencv_rgbd;opencv_saliency;opencv_shape;opencv_signal;opencv_stereo;opencv_structured_light;opencv_superres;opencv_surface_matching;opencv_text;opencv_tracking;opencv_videostab;opencv_wechat_qrcode;opencv_xfeatures2d;opencv_ximgproc;opencv_xobjdetect;opencv_xphoto
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/build
+
+Build started at: Tuesday, August 20, 2024 AM01:15:57 HKT
+-- it's OPENCV_CUDA:
+-- OPENCV_CUDA_SRC_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/src/opencv_cuda.cpp
+-- OPENCV_CUDA_HEADER_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/inc/opencv_cuda.hpp
+-- OpenCV library status:
+-- > version: 4.10.0
+-- > include: /usr/local/include/opencv4
+-- > libraries: opencv_calib3d;opencv_core;opencv_dnn;opencv_features2d;opencv_flann;opencv_gapi;opencv_highgui;opencv_imgcodecs;opencv_imgproc;opencv_ml;opencv_objdetect;opencv_photo;opencv_stitching;opencv_video;opencv_videoio;opencv_alphamat;opencv_aruco;opencv_bgsegm;opencv_bioinspired;opencv_ccalib;opencv_cudaarithm;opencv_cudabgsegm;opencv_cudacodec;opencv_cudafeatures2d;opencv_cudafilters;opencv_cudaimgproc;opencv_cudalegacy;opencv_cudaobjdetect;opencv_cudaoptflow;opencv_cudastereo;opencv_cudawarping;opencv_cudev;opencv_datasets;opencv_dnn_objdetect;opencv_dnn_superres;opencv_dpm;opencv_face;opencv_freetype;opencv_fuzzy;opencv_hfs;opencv_img_hash;opencv_intensity_transform;opencv_line_descriptor;opencv_mcc;opencv_optflow;opencv_phase_unwrapping;opencv_plot;opencv_quality;opencv_rapid;opencv_reg;opencv_rgbd;opencv_saliency;opencv_shape;opencv_signal;opencv_stereo;opencv_structured_light;opencv_superres;opencv_surface_matching;opencv_text;opencv_tracking;opencv_videostab;opencv_wechat_qrcode;opencv_xfeatures2d;opencv_ximgproc;opencv_xobjdetect;opencv_xphoto
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/build
+
+Build started at: Tuesday, August 20, 2024 AM01:17:34 HKT
+-- it's OPENCV_CUDA:
+-- OPENCV_CUDA_SRC_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/src/opencv_cuda.cpp
+-- OPENCV_CUDA_HEADER_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/inc/opencv_cuda.hpp
+-- OpenCV library status:
+-- > version: 4.10.0
+-- > include: /usr/local/include/opencv4
+-- > libraries: opencv_calib3d;opencv_core;opencv_dnn;opencv_features2d;opencv_flann;opencv_gapi;opencv_highgui;opencv_imgcodecs;opencv_imgproc;opencv_ml;opencv_objdetect;opencv_photo;opencv_stitching;opencv_video;opencv_videoio;opencv_alphamat;opencv_aruco;opencv_bgsegm;opencv_bioinspired;opencv_ccalib;opencv_cudaarithm;opencv_cudabgsegm;opencv_cudacodec;opencv_cudafeatures2d;opencv_cudafilters;opencv_cudaimgproc;opencv_cudalegacy;opencv_cudaobjdetect;opencv_cudaoptflow;opencv_cudastereo;opencv_cudawarping;opencv_cudev;opencv_datasets;opencv_dnn_objdetect;opencv_dnn_superres;opencv_dpm;opencv_face;opencv_freetype;opencv_fuzzy;opencv_hfs;opencv_img_hash;opencv_intensity_transform;opencv_line_descriptor;opencv_mcc;opencv_optflow;opencv_phase_unwrapping;opencv_plot;opencv_quality;opencv_rapid;opencv_reg;opencv_rgbd;opencv_saliency;opencv_shape;opencv_signal;opencv_stereo;opencv_structured_light;opencv_superres;opencv_surface_matching;opencv_text;opencv_tracking;opencv_videostab;opencv_wechat_qrcode;opencv_xfeatures2d;opencv_ximgproc;opencv_xobjdetect;opencv_xphoto
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/build
+
+Build started at: Tuesday, August 20, 2024 AM01:17:50 HKT
+-- it's OPENCV_CUDA:
+-- OPENCV_CUDA_SRC_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/src/opencv_cuda.cpp
+-- OPENCV_CUDA_HEADER_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/inc/opencv_cuda.hpp
+-- OpenCV library status:
+-- > version: 4.10.0
+-- > include: /usr/local/include/opencv4
+-- > libraries: opencv_calib3d;opencv_core;opencv_dnn;opencv_features2d;opencv_flann;opencv_gapi;opencv_highgui;opencv_imgcodecs;opencv_imgproc;opencv_ml;opencv_objdetect;opencv_photo;opencv_stitching;opencv_video;opencv_videoio;opencv_alphamat;opencv_aruco;opencv_bgsegm;opencv_bioinspired;opencv_ccalib;opencv_cudaarithm;opencv_cudabgsegm;opencv_cudacodec;opencv_cudafeatures2d;opencv_cudafilters;opencv_cudaimgproc;opencv_cudalegacy;opencv_cudaobjdetect;opencv_cudaoptflow;opencv_cudastereo;opencv_cudawarping;opencv_cudev;opencv_datasets;opencv_dnn_objdetect;opencv_dnn_superres;opencv_dpm;opencv_face;opencv_freetype;opencv_fuzzy;opencv_hfs;opencv_img_hash;opencv_intensity_transform;opencv_line_descriptor;opencv_mcc;opencv_optflow;opencv_phase_unwrapping;opencv_plot;opencv_quality;opencv_rapid;opencv_reg;opencv_rgbd;opencv_saliency;opencv_shape;opencv_signal;opencv_stereo;opencv_structured_light;opencv_superres;opencv_surface_matching;opencv_text;opencv_tracking;opencv_videostab;opencv_wechat_qrcode;opencv_xfeatures2d;opencv_ximgproc;opencv_xobjdetect;opencv_xphoto
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/build
+
+Build started at: Tuesday, August 20, 2024 AM01:18:01 HKT
+-- it's OPENCV_CUDA:
+-- OPENCV_CUDA_SRC_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/src/opencv_cuda.cpp
+-- OPENCV_CUDA_HEADER_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/inc/opencv_cuda.hpp
+-- OpenCV library status:
+-- > version: 4.10.0
+-- > include: /usr/local/include/opencv4
+-- > libraries: opencv_calib3d;opencv_core;opencv_dnn;opencv_features2d;opencv_flann;opencv_gapi;opencv_highgui;opencv_imgcodecs;opencv_imgproc;opencv_ml;opencv_objdetect;opencv_photo;opencv_stitching;opencv_video;opencv_videoio;opencv_alphamat;opencv_aruco;opencv_bgsegm;opencv_bioinspired;opencv_ccalib;opencv_cudaarithm;opencv_cudabgsegm;opencv_cudacodec;opencv_cudafeatures2d;opencv_cudafilters;opencv_cudaimgproc;opencv_cudalegacy;opencv_cudaobjdetect;opencv_cudaoptflow;opencv_cudastereo;opencv_cudawarping;opencv_cudev;opencv_datasets;opencv_dnn_objdetect;opencv_dnn_superres;opencv_dpm;opencv_face;opencv_freetype;opencv_fuzzy;opencv_hfs;opencv_img_hash;opencv_intensity_transform;opencv_line_descriptor;opencv_mcc;opencv_optflow;opencv_phase_unwrapping;opencv_plot;opencv_quality;opencv_rapid;opencv_reg;opencv_rgbd;opencv_saliency;opencv_shape;opencv_signal;opencv_stereo;opencv_structured_light;opencv_superres;opencv_surface_matching;opencv_text;opencv_tracking;opencv_videostab;opencv_wechat_qrcode;opencv_xfeatures2d;opencv_ximgproc;opencv_xobjdetect;opencv_xphoto
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/build
+
+Build started at: Tuesday, August 20, 2024 AM01:22:41 HKT
+-- it's OPENCV_CUDA:
+-- OPENCV_CUDA_SRC_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/src/opencv_cuda.cpp
+-- OPENCV_CUDA_HEADER_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/inc/opencv_cuda.hpp
+-- OpenCV library status:
+-- > version: 4.10.0
+-- > include: /usr/local/include/opencv4
+-- > libraries: opencv_calib3d;opencv_core;opencv_dnn;opencv_features2d;opencv_flann;opencv_gapi;opencv_highgui;opencv_imgcodecs;opencv_imgproc;opencv_ml;opencv_objdetect;opencv_photo;opencv_stitching;opencv_video;opencv_videoio;opencv_alphamat;opencv_aruco;opencv_bgsegm;opencv_bioinspired;opencv_ccalib;opencv_cudaarithm;opencv_cudabgsegm;opencv_cudacodec;opencv_cudafeatures2d;opencv_cudafilters;opencv_cudaimgproc;opencv_cudalegacy;opencv_cudaobjdetect;opencv_cudaoptflow;opencv_cudastereo;opencv_cudawarping;opencv_cudev;opencv_datasets;opencv_dnn_objdetect;opencv_dnn_superres;opencv_dpm;opencv_face;opencv_freetype;opencv_fuzzy;opencv_hfs;opencv_img_hash;opencv_intensity_transform;opencv_line_descriptor;opencv_mcc;opencv_optflow;opencv_phase_unwrapping;opencv_plot;opencv_quality;opencv_rapid;opencv_reg;opencv_rgbd;opencv_saliency;opencv_shape;opencv_signal;opencv_stereo;opencv_structured_light;opencv_superres;opencv_surface_matching;opencv_text;opencv_tracking;opencv_videostab;opencv_wechat_qrcode;opencv_xfeatures2d;opencv_ximgproc;opencv_xobjdetect;opencv_xphoto
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/build
+
+Build started at: Tuesday, August 20, 2024 AM01:22:58 HKT
+-- it's OPENCV_CUDA:
+-- OPENCV_CUDA_SRC_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/src/opencv_cuda.cpp
+-- OPENCV_CUDA_HEADER_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/inc/opencv_cuda.hpp
+-- OpenCV library status:
+-- > version: 4.10.0
+-- > include: /usr/local/include/opencv4
+-- > libraries: opencv_calib3d;opencv_core;opencv_dnn;opencv_features2d;opencv_flann;opencv_gapi;opencv_highgui;opencv_imgcodecs;opencv_imgproc;opencv_ml;opencv_objdetect;opencv_photo;opencv_stitching;opencv_video;opencv_videoio;opencv_alphamat;opencv_aruco;opencv_bgsegm;opencv_bioinspired;opencv_ccalib;opencv_cudaarithm;opencv_cudabgsegm;opencv_cudacodec;opencv_cudafeatures2d;opencv_cudafilters;opencv_cudaimgproc;opencv_cudalegacy;opencv_cudaobjdetect;opencv_cudaoptflow;opencv_cudastereo;opencv_cudawarping;opencv_cudev;opencv_datasets;opencv_dnn_objdetect;opencv_dnn_superres;opencv_dpm;opencv_face;opencv_freetype;opencv_fuzzy;opencv_hfs;opencv_img_hash;opencv_intensity_transform;opencv_line_descriptor;opencv_mcc;opencv_optflow;opencv_phase_unwrapping;opencv_plot;opencv_quality;opencv_rapid;opencv_reg;opencv_rgbd;opencv_saliency;opencv_shape;opencv_signal;opencv_stereo;opencv_structured_light;opencv_superres;opencv_surface_matching;opencv_text;opencv_tracking;opencv_videostab;opencv_wechat_qrcode;opencv_xfeatures2d;opencv_ximgproc;opencv_xobjdetect;opencv_xphoto
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/build
+
+Build started at: Tuesday, August 20, 2024 AM01:23:42 HKT
+-- it's OPENCV_CUDA:
+-- OPENCV_CUDA_SRC_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/src/opencv_cuda.cpp
+-- OPENCV_CUDA_HEADER_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/inc/opencv_cuda.hpp
+-- OpenCV library status:
+-- > version: 4.10.0
+-- > include: /usr/local/include/opencv4
+-- > libraries: opencv_calib3d;opencv_core;opencv_dnn;opencv_features2d;opencv_flann;opencv_gapi;opencv_highgui;opencv_imgcodecs;opencv_imgproc;opencv_ml;opencv_objdetect;opencv_photo;opencv_stitching;opencv_video;opencv_videoio;opencv_alphamat;opencv_aruco;opencv_bgsegm;opencv_bioinspired;opencv_ccalib;opencv_cudaarithm;opencv_cudabgsegm;opencv_cudacodec;opencv_cudafeatures2d;opencv_cudafilters;opencv_cudaimgproc;opencv_cudalegacy;opencv_cudaobjdetect;opencv_cudaoptflow;opencv_cudastereo;opencv_cudawarping;opencv_cudev;opencv_datasets;opencv_dnn_objdetect;opencv_dnn_superres;opencv_dpm;opencv_face;opencv_freetype;opencv_fuzzy;opencv_hfs;opencv_img_hash;opencv_intensity_transform;opencv_line_descriptor;opencv_mcc;opencv_optflow;opencv_phase_unwrapping;opencv_plot;opencv_quality;opencv_rapid;opencv_reg;opencv_rgbd;opencv_saliency;opencv_shape;opencv_signal;opencv_stereo;opencv_structured_light;opencv_superres;opencv_surface_matching;opencv_text;opencv_tracking;opencv_videostab;opencv_wechat_qrcode;opencv_xfeatures2d;opencv_ximgproc;opencv_xobjdetect;opencv_xphoto
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/build
+
+Build started at: Tuesday, August 20, 2024 AM01:24:50 HKT
+-- it's OPENCV_CUDA:
+-- OPENCV_CUDA_SRC_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/src/opencv_cuda.cpp
+-- OPENCV_CUDA_HEADER_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/inc/opencv_cuda.hpp
+-- OpenCV library status:
+-- > version: 4.10.0
+-- > include: /usr/local/include/opencv4
+-- > libraries: opencv_calib3d;opencv_core;opencv_dnn;opencv_features2d;opencv_flann;opencv_gapi;opencv_highgui;opencv_imgcodecs;opencv_imgproc;opencv_ml;opencv_objdetect;opencv_photo;opencv_stitching;opencv_video;opencv_videoio;opencv_alphamat;opencv_aruco;opencv_bgsegm;opencv_bioinspired;opencv_ccalib;opencv_cudaarithm;opencv_cudabgsegm;opencv_cudacodec;opencv_cudafeatures2d;opencv_cudafilters;opencv_cudaimgproc;opencv_cudalegacy;opencv_cudaobjdetect;opencv_cudaoptflow;opencv_cudastereo;opencv_cudawarping;opencv_cudev;opencv_datasets;opencv_dnn_objdetect;opencv_dnn_superres;opencv_dpm;opencv_face;opencv_freetype;opencv_fuzzy;opencv_hfs;opencv_img_hash;opencv_intensity_transform;opencv_line_descriptor;opencv_mcc;opencv_optflow;opencv_phase_unwrapping;opencv_plot;opencv_quality;opencv_rapid;opencv_reg;opencv_rgbd;opencv_saliency;opencv_shape;opencv_signal;opencv_stereo;opencv_structured_light;opencv_superres;opencv_surface_matching;opencv_text;opencv_tracking;opencv_videostab;opencv_wechat_qrcode;opencv_xfeatures2d;opencv_ximgproc;opencv_xobjdetect;opencv_xphoto
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/build
+
+Build started at: Tuesday, August 20, 2024 AM01:25:27 HKT
+-- The C compiler identification is GNU 12.2.0
+-- The CXX compiler identification is GNU 12.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- it's OPENCV_CUDA:
+-- OPENCV_CUDA_SRC_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/src/opencv_cuda.cpp
+-- OPENCV_CUDA_HEADER_LIST: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/inc/opencv_cuda.hpp
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE  
+-- Found CUDA: /usr/local/cuda-12.4 (found suitable exact version "12.4") 
+-- Found OpenCV: /usr/local (found version "4.10.0") 
+-- OpenCV library status:
+-- > version: 4.10.0
+-- > include: /usr/local/include/opencv4
+-- > libraries: opencv_calib3d;opencv_core;opencv_dnn;opencv_features2d;opencv_flann;opencv_gapi;opencv_highgui;opencv_imgcodecs;opencv_imgproc;opencv_ml;opencv_objdetect;opencv_photo;opencv_stitching;opencv_video;opencv_videoio;opencv_alphamat;opencv_aruco;opencv_bgsegm;opencv_bioinspired;opencv_ccalib;opencv_cudaarithm;opencv_cudabgsegm;opencv_cudacodec;opencv_cudafeatures2d;opencv_cudafilters;opencv_cudaimgproc;opencv_cudalegacy;opencv_cudaobjdetect;opencv_cudaoptflow;opencv_cudastereo;opencv_cudawarping;opencv_cudev;opencv_datasets;opencv_dnn_objdetect;opencv_dnn_superres;opencv_dpm;opencv_face;opencv_freetype;opencv_fuzzy;opencv_hfs;opencv_img_hash;opencv_intensity_transform;opencv_line_descriptor;opencv_mcc;opencv_optflow;opencv_phase_unwrapping;opencv_plot;opencv_quality;opencv_rapid;opencv_reg;opencv_rgbd;opencv_saliency;opencv_shape;opencv_signal;opencv_stereo;opencv_structured_light;opencv_superres;opencv_surface_matching;opencv_text;opencv_tracking;opencv_videostab;opencv_wechat_qrcode;opencv_xfeatures2d;opencv_ximgproc;opencv_xobjdetect;opencv_xphoto
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/build

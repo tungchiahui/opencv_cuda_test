@@ -20,8 +20,6 @@ add_library(${PREFIX}_src_lib SHARED ${${PREFIX}_SRC_LIST})
 # 安装头文件到 install 目录的 include 子目录中再寻找
 install(FILES ${${PREFIX}_HEADER_LIST} DESTINATION ${CMAKE_INSTALL_PREFIX}/include/${PREFIX})
 
-
-
 # 引用第三方库(例如引用OpenCV4库)
 # 查找 库 的包
 find_package(OpenCV REQUIRED)

@@ -1,42 +1,50 @@
 {
-	"version": "2.0.0",
-	"options": {
-		"cwd": "${workspaceFolder}/build",    //需要进入到我们执行tasks任务的文件夹中
-	},
-	"tasks": [    //tasks包含三个小任务
-		{
-			"type": "shell",
-			"label": "cmake",    //第一个任务的名字叫cmake
-			"command": "cmake",    //它要执行的命令是cmake
-			"args": [
-				"..",    //参数是..
-                ">>",
-				"../log/cmake.log",    //这里是为了输出log    log的命令为 cmake .. >> ../log/log.txt
-				"2>&1"    //将其他错误信息也输出
-			],
-			"problemMatcher": []    //这里需要添加一个空的问题匹配器，否则会报错
-		},
-		{
-			"label": "make",    //第二个任务的名字叫make
-			"group": {
-				"kind": "build",
-				"isDefault": true
-			},
-			"command": "make",    //它要执行的命令是make
-			// "args": [
-			// 	">>",
-			// 	"../log/make_build.log",
-			// 	"2>&1"
-			// ],
-			"problemMatcher": []    //这里也需要添加一个空的问题匹配器，否则会报错
-		},
-		{
-			"label": "Build",    //第三个任务的名字叫Build
-			"dependsOrder": "sequence",    //顺序执行依赖项
-			"dependsOn":[    //依赖的两个项为cmake和make
-				"cmake",    //即第一个任务的label
-				"make"      //即第二个任务的label
-			]
-		}
-	]
+    "version": "2.0.0",
+    "options": {
+        "cwd": "${workspaceFolder}/build",    //需要进入到我们执行tasks任务的文件夹中
+    },
+    "tasks": [    //tasks包含四个任务
+        {
+            "type": "shell",
+            "label": "cmake",    //第一个任务的名字叫cmake
+            "command": "bash",
+            "args": [
+                "-c",
+                "echo '' >> ../log/cmake.log && echo \"Build started at: $(date)\" >> ../log/cmake.log && cmake .. >> ../log/cmake.log 2>&1"
+            ],
+            "problemMatcher": []    //这里需要添加一个空的问题匹配器，否则会报错
+        },
+        {
+            "label": "make",    //第二个任务的名字叫make
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "command": "bash",
+            "args": [
+                "-c",
+                "echo '' >> ../log/make.log && echo \"Build started at: $(date)\" >> ../log/make.log && make install -j$(grep -c ^processor /proc/cpuinfo) >> ../log/make.log 2>&1"
+            ],
+            "problemMatcher": []    //这里也需要添加一个空的问题匹配器，否则会报错
+        },
+        {
+            "label": "source-setup", // 需要加载一下库
+            "type": "shell",
+            "command": "bash",
+            "args": [
+                "-c",
+                "source ${workspaceFolder}/install/.setup.bash"
+            ],
+            "problemMatcher": []
+        },
+        {
+            "label": "Build",    //第四个任务的名字叫Build
+            "dependsOrder": "sequence",    //顺序执行依赖项
+            "dependsOn":[    //依赖的三个项为cmake、make和source-setup
+                "cmake",    //即第一个任务的label
+                "make",     //即第二个任务的label
+                "source-setup" // 即第三个任务的label(任务三稍微有点多此一举)
+            ]
+        }
+    ]
 }

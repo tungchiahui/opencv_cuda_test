@@ -1,0 +1,181 @@
+
+Build started at: Tuesday, August 20, 2024 AM01:02:18 HKT
+[ 25%] Building CXX object src/OPENCV_CUDA/CMakeFiles/OPENCV_CUDA_src_lib.dir/src/opencv_cuda.cpp.o
+[ 50%] Linking CXX shared library libOPENCV_CUDA_src_lib.so
+[ 50%] Built target OPENCV_CUDA_src_lib
+[ 75%] Building CXX object src/CMakeFiles/demo1.dir/main.cpp.o
+[100%] Linking CXX executable demo1
+[100%] Built target demo1
+Install the project...
+-- Install configuration: "Debug"
+-- Installing: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/bin/demo1
+-- Set runtime path of "/home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/bin/demo1" to ""
+-- Installing: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so
+-- Set runtime path of "/home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so" to ""
+-- Installing: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/include/OPENCV_CUDA/opencv_cuda.hpp
+
+Build started at: Tuesday, August 20, 2024 AM01:05:45 HKT
+[ 50%] Built target OPENCV_CUDA_src_lib
+[100%] Built target demo1
+Install the project...
+-- Install configuration: "Debug"
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/bin/demo1
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/include/OPENCV_CUDA/opencv_cuda.hpp
+
+Build started at: Tuesday, August 20, 2024 AM01:08:05 HKT
+[ 50%] Built target OPENCV_CUDA_src_lib
+[100%] Built target demo1
+Install the project...
+-- Install configuration: "Debug"
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/bin/demo1
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/include/OPENCV_CUDA/opencv_cuda.hpp
+
+Build started at: Tuesday, August 20, 2024 AM01:08:25 HKT
+[ 50%] Built target OPENCV_CUDA_src_lib
+[100%] Built target demo1
+Install the project...
+-- Install configuration: "Debug"
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/bin/demo1
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/include/OPENCV_CUDA/opencv_cuda.hpp
+
+Build started at: Tuesday, August 20, 2024 AM01:10:30 HKT
+[ 50%] Built target OPENCV_CUDA_src_lib
+[100%] Built target demo1
+Install the project...
+-- Install configuration: "Debug"
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/bin/demo1
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/include/OPENCV_CUDA/opencv_cuda.hpp
+
+Build started at: Tuesday, August 20, 2024 AM01:11:05 HKT
+[ 50%] Built target OPENCV_CUDA_src_lib
+[100%] Built target demo1
+Install the project...
+-- Install configuration: "Debug"
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/bin/demo1
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/include/OPENCV_CUDA/opencv_cuda.hpp
+
+Build started at: Tuesday, August 20, 2024 AM01:11:29 HKT
+[ 50%] Built target OPENCV_CUDA_src_lib
+[100%] Built target demo1
+Install the project...
+-- Install configuration: "Debug"
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/bin/demo1
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/include/OPENCV_CUDA/opencv_cuda.hpp
+
+Build started at: Tuesday, August 20, 2024 AM01:12:44 HKT
+[ 50%] Built target OPENCV_CUDA_src_lib
+[100%] Built target demo1
+Install the project...
+-- Install configuration: "Debug"
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/bin/demo1
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/include/OPENCV_CUDA/opencv_cuda.hpp
+
+Build started at: Tuesday, August 20, 2024 AM01:15:58 HKT
+[ 50%] Built target OPENCV_CUDA_src_lib
+[100%] Built target demo1
+Install the project...
+-- Install configuration: "Debug"
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/bin/demo1
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/include/OPENCV_CUDA/opencv_cuda.hpp
+
+Build started at: Tuesday, August 20, 2024 AM01:17:35 HKT
+[ 50%] Built target OPENCV_CUDA_src_lib
+[100%] Built target demo1
+Install the project...
+-- Install configuration: "Debug"
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/bin/demo1
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/include/OPENCV_CUDA/opencv_cuda.hpp
+
+Build started at: Tuesday, August 20, 2024 AM01:17:50 HKT
+[ 50%] Built target OPENCV_CUDA_src_lib
+[100%] Built target demo1
+Install the project...
+-- Install configuration: "Debug"
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/bin/demo1
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/include/OPENCV_CUDA/opencv_cuda.hpp
+
+Build started at: Tuesday, August 20, 2024 AM01:18:02 HKT
+[ 50%] Built target OPENCV_CUDA_src_lib
+[100%] Built target demo1
+Install the project...
+-- Install configuration: "Debug"
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/bin/demo1
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/include/OPENCV_CUDA/opencv_cuda.hpp
+
+Build started at: Tuesday, August 20, 2024 AM01:22:41 HKT
+[ 25%] Building CXX object src/OPENCV_CUDA/CMakeFiles/OPENCV_CUDA_src_lib.dir/src/opencv_cuda.cpp.o
+/home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/src/opencv_cuda.cpp: In function ‘int cuda_test()’:
+/home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/src/opencv_cuda.cpp:19:15: error: lvalue required as left operand of assignment
+   19 |     if (getcwd(cwd, sizeof(cwd)) = nullptr) {
+      |         ~~~~~~^~~~~~~~~~~~~~~~~~
+make[2]: *** [src/OPENCV_CUDA/CMakeFiles/OPENCV_CUDA_src_lib.dir/build.make:76: src/OPENCV_CUDA/CMakeFiles/OPENCV_CUDA_src_lib.dir/src/opencv_cuda.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:141: src/OPENCV_CUDA/CMakeFiles/OPENCV_CUDA_src_lib.dir/all] Error 2
+make: *** [Makefile:136: all] Error 2
+
+Build started at: Tuesday, August 20, 2024 AM01:22:59 HKT
+[ 25%] Building CXX object src/OPENCV_CUDA/CMakeFiles/OPENCV_CUDA_src_lib.dir/src/opencv_cuda.cpp.o
+[ 50%] Linking CXX shared library libOPENCV_CUDA_src_lib.so
+[ 50%] Built target OPENCV_CUDA_src_lib
+[ 75%] Linking CXX executable demo1
+[100%] Built target demo1
+Install the project...
+-- Install configuration: "Debug"
+-- Installing: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/bin/demo1
+-- Set runtime path of "/home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/bin/demo1" to ""
+-- Installing: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so
+-- Set runtime path of "/home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so" to ""
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/include/OPENCV_CUDA/opencv_cuda.hpp
+
+Build started at: Tuesday, August 20, 2024 AM01:23:42 HKT
+[ 25%] Building CXX object src/OPENCV_CUDA/CMakeFiles/OPENCV_CUDA_src_lib.dir/src/opencv_cuda.cpp.o
+[ 50%] Linking CXX shared library libOPENCV_CUDA_src_lib.so
+[ 50%] Built target OPENCV_CUDA_src_lib
+[ 75%] Linking CXX executable demo1
+[100%] Built target demo1
+Install the project...
+-- Install configuration: "Debug"
+-- Installing: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/bin/demo1
+-- Set runtime path of "/home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/bin/demo1" to ""
+-- Installing: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so
+-- Set runtime path of "/home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so" to ""
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/include/OPENCV_CUDA/opencv_cuda.hpp
+
+Build started at: Tuesday, August 20, 2024 AM01:24:51 HKT
+[ 25%] Building CXX object src/OPENCV_CUDA/CMakeFiles/OPENCV_CUDA_src_lib.dir/src/opencv_cuda.cpp.o
+[ 50%] Linking CXX shared library libOPENCV_CUDA_src_lib.so
+[ 50%] Built target OPENCV_CUDA_src_lib
+[ 75%] Linking CXX executable demo1
+[100%] Built target demo1
+Install the project...
+-- Install configuration: "Debug"
+-- Installing: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/bin/demo1
+-- Set runtime path of "/home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/bin/demo1" to ""
+-- Installing: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so
+-- Set runtime path of "/home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so" to ""
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/include/OPENCV_CUDA/opencv_cuda.hpp
+
+Build started at: Tuesday, August 20, 2024 AM01:25:27 HKT
+[ 25%] Building CXX object src/OPENCV_CUDA/CMakeFiles/OPENCV_CUDA_src_lib.dir/src/opencv_cuda.cpp.o
+[ 50%] Linking CXX shared library libOPENCV_CUDA_src_lib.so
+[ 50%] Built target OPENCV_CUDA_src_lib
+[ 75%] Building CXX object src/CMakeFiles/demo1.dir/main.cpp.o
+[100%] Linking CXX executable demo1
+[100%] Built target demo1
+Install the project...
+-- Install configuration: "Debug"
+-- Installing: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/bin/demo1
+-- Set runtime path of "/home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/bin/demo1" to ""
+-- Installing: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so
+-- Set runtime path of "/home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so" to ""
+-- Installing: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/include/OPENCV_CUDA/opencv_cuda.hpp

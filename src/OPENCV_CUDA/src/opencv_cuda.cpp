@@ -3,6 +3,8 @@
 #include <opencv2/cudaarithm.hpp>
 #include <opencv2/cudaimgproc.hpp>
 #include <iostream>
+#include <unistd.h>
+#include <cstring>
 
 int cuda_test(void)
 {
@@ -12,8 +14,16 @@ int cuda_test(void)
         return -1;
     }
 
+    //获取图像路径
+    char cwd[1024];
+    if (getcwd(cwd, sizeof(cwd)) == nullptr) {
+        return -1;
+    }
+    std::string basePath(cwd);
+    std::string imagePath = basePath + "/../src/OPENCV_CUDA/素材/林星阑.jpg";
+
     // 读取输入图像
-    cv::Mat img = cv::imread("../src/OPENCV_CUDA/素材/林星阑.jpg", cv::IMREAD_COLOR);
+    cv::Mat img = cv::imread(imagePath, cv::IMREAD_COLOR);
     if (img.empty()) {
         std::cerr << "无法读取图片，请检查路径和格式。" << std::endl;
         return -1;
