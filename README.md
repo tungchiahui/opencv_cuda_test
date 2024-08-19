@@ -1,5 +1,5 @@
 # README
-1. Project Name: 项目名称：OPENCV4_CUDA_TEST
+1. Project Name:OPENCV4_CUDA_TEST
 2. Version: v2.0
 3. State: Pre-Release
 4. Author: Tung Chia-hui
