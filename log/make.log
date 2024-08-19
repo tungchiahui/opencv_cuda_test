@@ -179,3 +179,92 @@ Install the project...
 -- Installing: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so
 -- Set runtime path of "/home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so" to ""
 -- Installing: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/include/OPENCV_CUDA/opencv_cuda.hpp
+
+Build started at: Tuesday, August 20, 2024 AM01:42:30 HKT
+[ 25%] Building CXX object src/OPENCV_CUDA/CMakeFiles/OPENCV_CUDA_src_lib.dir/src/opencv_cuda.cpp.o
+[ 50%] Linking CXX shared library libOPENCV_CUDA_src_lib.so
+[ 50%] Built target OPENCV_CUDA_src_lib
+[ 75%] Building CXX object src/CMakeFiles/demo1.dir/main.cpp.o
+[100%] Linking CXX executable demo1
+[100%] Built target demo1
+Install the project...
+-- Install configuration: "Debug"
+-- Installing: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/bin/demo1
+-- Set runtime path of "/home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/bin/demo1" to ""
+-- Installing: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so
+-- Set runtime path of "/home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so" to ""
+-- Installing: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/include/OPENCV_CUDA/opencv_cuda.hpp
+
+Build started at: Tuesday, August 20, 2024 AM01:54:23 HKT
+[ 25%] Building CXX object src/OPENCV_CUDA/CMakeFiles/OPENCV_CUDA_src_lib.dir/src/opencv_cuda.cpp.o
+[ 50%] Linking CXX shared library libOPENCV_CUDA_src_lib.so
+[ 50%] Built target OPENCV_CUDA_src_lib
+[ 75%] Building CXX object src/CMakeFiles/demo1.dir/main.cpp.o
+[100%] Linking CXX executable demo1
+[100%] Built target demo1
+Install the project...
+-- Install configuration: "Debug"
+-- Installing: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/bin/demo1
+-- Set runtime path of "/home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/bin/demo1" to ""
+-- Installing: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so
+-- Set runtime path of "/home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so" to ""
+-- Installing: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/include/OPENCV_CUDA/opencv_cuda.hpp
+CMake Error at src/OPENCV_CUDA/cmake_install.cmake:66 (file):
+  file INSTALL cannot find
+  "/home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/materials": No
+  such file or directory.
+Call Stack (most recent call first):
+  src/cmake_install.cmake:106 (include)
+  cmake_install.cmake:47 (include)
+
+
+make: *** [Makefile:100: install] Error 1
+
+Build started at: Tuesday, August 20, 2024 AM01:58:22 HKT
+[ 50%] Built target OPENCV_CUDA_src_lib
+[100%] Built target demo1
+Install the project...
+-- Install configuration: "Debug"
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/bin/demo1
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/include/OPENCV_CUDA/opencv_cuda.hpp
+CMake Error at src/OPENCV_CUDA/cmake_install.cmake:66 (file):
+  file INSTALL cannot find
+  "/home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/../materials":
+  No such file or directory.
+Call Stack (most recent call first):
+  src/cmake_install.cmake:106 (include)
+  cmake_install.cmake:47 (include)
+
+
+make: *** [Makefile:100: install] Error 1
+
+Build started at: Tuesday, August 20, 2024 AM01:59:20 HKT
+[ 50%] Built target OPENCV_CUDA_src_lib
+[100%] Built target demo1
+Install the project...
+-- Install configuration: "Debug"
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/bin/demo1
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/include/OPENCV_CUDA/opencv_cuda.hpp
+CMake Error at src/OPENCV_CUDA/cmake_install.cmake:66 (file):
+  file INSTALL cannot find
+  "/home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/src/OPENCV_CUDA/../materials":
+  No such file or directory.
+Call Stack (most recent call first):
+  src/cmake_install.cmake:106 (include)
+  cmake_install.cmake:47 (include)
+
+
+make: *** [Makefile:100: install] Error 1
+
+Build started at: Tuesday, August 20, 2024 AM02:04:50 HKT
+[ 50%] Built target OPENCV_CUDA_src_lib
+[100%] Built target demo1
+Install the project...
+-- Install configuration: "Debug"
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/bin/demo1
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/include/OPENCV_CUDA/opencv_cuda.hpp
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/src/OPENCV_CUDA/materials/materials
+-- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/src/OPENCV_CUDA/materials/materials/林星阑.jpg

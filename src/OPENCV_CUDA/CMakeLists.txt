@@ -36,3 +36,8 @@ message(STATUS "OpenCV library status:")
 message(STATUS "> version: ${OpenCV_VERSION}")
 message(STATUS "> include: ${OpenCV_INCLUDE_DIRS}")
 message(STATUS "> libraries: ${OpenCV_LIBS}")
+
+# 使用 install 命令将素材文件夹及其内容安装到目标目录
+install(DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/materials
+        DESTINATION ${CMAKE_INSTALL_PREFIX}/src/${PREFIX}/materials
+        FILES_MATCHING PATTERN "*")

@@ -20,7 +20,7 @@ int cuda_test(void)
         return -1;
     }
     std::string basePath(cwd);
-    std::string imagePath = basePath + "/../src/OPENCV_CUDA/素材/林星阑.jpg";
+    std::string imagePath = basePath + "/../src/OPENCV_CUDA/materials/林星阑.jpg";
 
     // 读取输入图像
     cv::Mat img = cv::imread(imagePath, cv::IMREAD_COLOR);

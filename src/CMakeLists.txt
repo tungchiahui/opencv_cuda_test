@@ -36,4 +36,4 @@ add_subdirectory(OPENCV_CUDA)
 # 将动态库src_lib与目标进行链接
 target_link_libraries(${TARGET_NAME} PUBLIC OPENCV_CUDA_src_lib)
 # 安装  动态库
-install(TARGETS OPENCV_CUDA_src_lib DESTINATION lib)
+install(TARGETS OPENCV_CUDA_src_lib DESTINATION ${USER_INSTALL_LIB_DIR})
