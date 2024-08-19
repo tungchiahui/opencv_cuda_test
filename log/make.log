@@ -268,3 +268,37 @@ Install the project...
 -- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/include/OPENCV_CUDA/opencv_cuda.hpp
 -- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/src/OPENCV_CUDA/materials/materials
 -- Up-to-date: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/src/OPENCV_CUDA/materials/materials/林星阑.jpg
+
+Build started at: Tuesday, August 20, 2024 AM02:05:55 HKT
+[ 25%] Building CXX object src/OPENCV_CUDA/CMakeFiles/OPENCV_CUDA_src_lib.dir/src/opencv_cuda.cpp.o
+[ 50%] Linking CXX shared library libOPENCV_CUDA_src_lib.so
+[ 50%] Built target OPENCV_CUDA_src_lib
+[ 75%] Building CXX object src/CMakeFiles/demo1.dir/main.cpp.o
+[100%] Linking CXX executable demo1
+[100%] Built target demo1
+Install the project...
+-- Install configuration: "Debug"
+-- Installing: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/bin/demo1
+-- Set runtime path of "/home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/bin/demo1" to ""
+-- Installing: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so
+-- Set runtime path of "/home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so" to ""
+-- Installing: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/include/OPENCV_CUDA/opencv_cuda.hpp
+-- Installing: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/src/OPENCV_CUDA/materials/materials
+-- Installing: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/src/OPENCV_CUDA/materials/materials/林星阑.jpg
+
+Build started at: Tuesday, August 20, 2024 AM02:10:28 HKT
+[ 25%] Building CXX object src/OPENCV_CUDA/CMakeFiles/OPENCV_CUDA_src_lib.dir/src/opencv_cuda.cpp.o
+[ 50%] Linking CXX shared library libOPENCV_CUDA_src_lib.so
+[ 50%] Built target OPENCV_CUDA_src_lib
+[ 75%] Building CXX object src/CMakeFiles/demo1.dir/main.cpp.o
+[100%] Linking CXX executable demo1
+[100%] Built target demo1
+Install the project...
+-- Install configuration: "Debug"
+-- Installing: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/bin/demo1
+-- Set runtime path of "/home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/bin/demo1" to ""
+-- Installing: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so
+-- Set runtime path of "/home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so" to ""
+-- Installing: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/include/OPENCV_CUDA/opencv_cuda.hpp
+-- Installing: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/src/OPENCV_CUDA/materials
+-- Installing: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/src/OPENCV_CUDA/materials/林星阑.jpg
