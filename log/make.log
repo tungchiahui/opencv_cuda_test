@@ -302,3 +302,59 @@ Install the project...
 -- Installing: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/include/OPENCV_CUDA/opencv_cuda.hpp
 -- Installing: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/src/OPENCV_CUDA/materials
 -- Installing: /home/tungchiahui/UserFloder/mysource/CPP/opencv_cuda_test/install/src/OPENCV_CUDA/materials/林星阑.jpg
+
+Build started at: Fri Sep  6 12:25:53 AM CST 2024
+[ 25%] Building CXX object src/OPENCV_CUDA/CMakeFiles/OPENCV_CUDA_src_lib.dir/src/opencv_cuda.cpp.o
+[ 50%] Linking CXX shared library libOPENCV_CUDA_src_lib.so
+[ 50%] Built target OPENCV_CUDA_src_lib
+[ 75%] Building CXX object src/CMakeFiles/demo1.dir/main.cpp.o
+[100%] Linking CXX executable demo1
+[100%] Built target demo1
+Install the project...
+-- Install configuration: "Debug"
+-- Installing: /home/tungchiahui/UserFolder/MySource/opencv_cuda_test/install/bin/demo1
+-- Set runtime path of "/home/tungchiahui/UserFolder/MySource/opencv_cuda_test/install/bin/demo1" to ""
+-- Installing: /home/tungchiahui/UserFolder/MySource/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so
+-- Set runtime path of "/home/tungchiahui/UserFolder/MySource/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so" to ""
+-- Installing: /home/tungchiahui/UserFolder/MySource/opencv_cuda_test/install/include/OPENCV_CUDA/opencv_cuda.hpp
+-- Installing: /home/tungchiahui/UserFolder/MySource/opencv_cuda_test/install/src/OPENCV_CUDA/materials
+-- Installing: /home/tungchiahui/UserFolder/MySource/opencv_cuda_test/install/src/OPENCV_CUDA/materials/林星阑.jpg
+
+Build started at: Fri Sep  6 12:28:26 AM CST 2024
+Consolidate compiler generated dependencies of target OPENCV_CUDA_src_lib
+[ 50%] Built target OPENCV_CUDA_src_lib
+Consolidate compiler generated dependencies of target demo1
+[100%] Built target demo1
+Install the project...
+-- Install configuration: "Debug"
+-- Up-to-date: /home/tungchiahui/UserFolder/MySource/opencv_cuda_test/install/bin/demo1
+-- Up-to-date: /home/tungchiahui/UserFolder/MySource/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so
+-- Up-to-date: /home/tungchiahui/UserFolder/MySource/opencv_cuda_test/install/include/OPENCV_CUDA/opencv_cuda.hpp
+-- Up-to-date: /home/tungchiahui/UserFolder/MySource/opencv_cuda_test/install/src/OPENCV_CUDA/materials
+-- Up-to-date: /home/tungchiahui/UserFolder/MySource/opencv_cuda_test/install/src/OPENCV_CUDA/materials/林星阑.jpg
+
+Build started at: Fri Sep  6 12:31:07 AM CST 2024
+Consolidate compiler generated dependencies of target OPENCV_CUDA_src_lib
+[ 50%] Built target OPENCV_CUDA_src_lib
+Consolidate compiler generated dependencies of target demo1
+[100%] Built target demo1
+Install the project...
+-- Install configuration: "Debug"
+-- Up-to-date: /home/tungchiahui/UserFolder/MySource/opencv_cuda_test/install/bin/demo1
+-- Up-to-date: /home/tungchiahui/UserFolder/MySource/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so
+-- Up-to-date: /home/tungchiahui/UserFolder/MySource/opencv_cuda_test/install/include/OPENCV_CUDA/opencv_cuda.hpp
+-- Up-to-date: /home/tungchiahui/UserFolder/MySource/opencv_cuda_test/install/src/OPENCV_CUDA/materials
+-- Up-to-date: /home/tungchiahui/UserFolder/MySource/opencv_cuda_test/install/src/OPENCV_CUDA/materials/林星阑.jpg
+
+Build started at: Fri Sep  6 12:31:56 AM CST 2024
+Consolidate compiler generated dependencies of target OPENCV_CUDA_src_lib
+[ 50%] Built target OPENCV_CUDA_src_lib
+Consolidate compiler generated dependencies of target demo1
+[100%] Built target demo1
+Install the project...
+-- Install configuration: "Debug"
+-- Up-to-date: /home/tungchiahui/UserFolder/MySource/opencv_cuda_test/install/bin/demo1
+-- Up-to-date: /home/tungchiahui/UserFolder/MySource/opencv_cuda_test/install/lib/libOPENCV_CUDA_src_lib.so
+-- Up-to-date: /home/tungchiahui/UserFolder/MySource/opencv_cuda_test/install/include/OPENCV_CUDA/opencv_cuda.hpp
+-- Up-to-date: /home/tungchiahui/UserFolder/MySource/opencv_cuda_test/install/src/OPENCV_CUDA/materials
+-- Up-to-date: /home/tungchiahui/UserFolder/MySource/opencv_cuda_test/install/src/OPENCV_CUDA/materials/林星阑.jpg

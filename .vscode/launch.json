@@ -12,7 +12,7 @@
             "environment": [    //确保环境正常(库环境被成功找到)
                 {
                     "name": "LD_LIBRARY_PATH",
-                    "value": "${workspaceFolder}/install/lib"
+                    "value": "${workspaceFolder}/install/lib:/usr/local/lib"
                 }
             ],
             "externalConsole": false,   //关闭外部终端
